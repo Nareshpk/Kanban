@@ -16,7 +16,7 @@ function Loggin() {
                             <a href="index.html" class="logo-light">
                                 <span><img src="" alt="logo" height="22"/></span>
                                 <span><img src="images/devozy-logo.png" class="devozy-brand" alt="devozy logo"/></span>
-                                <span class="devozy-tagline">Next gen DevOps Accelerator platform. The way forward</span>
+                                <span class="devozy-tagline">NextNN gen DevOps Accelerator platform. The way forward</span>
                             </a>
                         </div>
 

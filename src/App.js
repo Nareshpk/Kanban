@@ -9,18 +9,18 @@ export default function App() {
   return (
     <BrowserRouter>
       <Routes> 
-      {/* <Route
+      <Route
           path="/" element={<SidebarScreen />}
           exact
-        ></Route> */}
+        ></Route>
       <Route
           path="/" element={<LoginScreen />}
           exact
         ></Route>
-        {/* <Route
+        <Route
           path="/rgister" element={<Rgisterscreen />}
           exact
-        ></Route> */}
+        ></Route>
       </Routes>
 
     </BrowserRouter>
